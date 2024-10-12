@@ -33,10 +33,12 @@
 
 ### 4. Visualizations and Reports
 **Dashboards**:  
-- Cards, Donut charts, Clustered bar charts, Clustered column charts, Line charts, Matrix cards  
+- Cards, Donut charts, Clustered bar charts, Clustered column charts, Line charts, Matrix cards
+
 **Filters and Interactions**:  
-- Slicers and interactive buttons for enhanced user experience  
-**Page Layout**:  
+- Slicers and interactive buttons for enhanced user experience
+  
+**Page Layout**:
 - **Page 1**: Index  
 - **Page 2**: Overview  
 - **Page 3**: User Performance  
@@ -50,7 +52,6 @@
 - DAX functions: `SUM`, `FORMAT`, `COUNT`, `RANKX`, `SELECTEDVALUE`, `DISTINCTCOUNT`, `SUMMARIZE`  
 
 ### 6. Challenges and Solutions
-### Challenges and Solutions
 
 - **Challenge 1**: Difficulty in identifying gained and lost customers.<br>
   **Solution**: Implemented custom DAX formulas to track customer gain and loss by comparing users' order histories across time periods.
