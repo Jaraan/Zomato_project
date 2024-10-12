@@ -39,10 +39,18 @@
 - Slicers and interactive buttons for enhanced user experience
   
 **Page Layout**:
-- **Page 1**: Index  
-- **Page 2**: Overview  
-- **Page 3**: User Performance  
-- **Page 4**: City Dashboard  
+- **Page 1**: Index
+![Zomato_index](https://github.com/user-attachments/assets/98042084-ab8f-405e-9b42-0555a5cc9e1b)
+
+- **Page 2**: Overview
+![Zomato_overview](https://github.com/user-attachments/assets/a9d1f805-179f-4f03-944e-e9e1d14fcbe5)
+
+- **Page 3**: User Performance
+![Zomato_user](https://github.com/user-attachments/assets/8e13b6b9-fc11-4d85-9245-3fe0c162a5dd)
+
+- **Page 4**: City Dashboard
+![Zomato_city](https://github.com/user-attachments/assets/c8486e0e-0a93-4998-a212-7be8e6bbf412)
+
 
 ### 5. Data Analysis
 **Transformations**:  
