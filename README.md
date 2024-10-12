@@ -44,18 +44,22 @@
 
 ### 5. Data Analysis
 **Transformations**:  
-- Replacing values, merging queries, renaming columns, expanding and unpivoting tables  
+- Replacing values, merging queries, renaming columns, expanding and unpivoting tables
+
 **Calculated Fields**:  
 - DAX functions: `SUM`, `FORMAT`, `COUNT`, `RANKX`, `SELECTEDVALUE`, `DISTINCTCOUNT`, `SUMMARIZE`  
 
 ### 6. Challenges and Solutions
-**Challenge 1**: Difficulty in identifying gained and lost customers.
-**Solution**: Implemented custom DAX formulas to track customer gain and loss by comparing users' order histories across time periods.
+### Challenges and Solutions
 
-**Challenge 2**: Performance optimization for large datasets (e.g., over 1 million rows).
-**Solution**: Used data reduction techniques like aggregations and efficient query modeling.
+- **Challenge 1**: Difficulty in identifying gained and lost customers.<br>
+  **Solution**: Implemented custom DAX formulas to track customer gain and loss by comparing users' order histories across time periods.
 
-**Challenge 3**: Handling incomplete or inconsistent data from Excel files.
-**Solution**: Applied data cleaning steps in Power Query to remove duplicates, fill missing values, and ensure data quality.
+- **Challenge 2**: Performance optimization for large datasets (e.g., over 1 million rows).<br>
+  **Solution**: Used data reduction techniques like aggregations and efficient query modeling to improve performance.
+
+- **Challenge 3**: Handling incomplete or inconsistent data from Excel files.<br>
+  **Solution**: Applied data cleaning steps in Power Query, including removing duplicates, filling missing values, and ensuring data quality.
+
 
 
