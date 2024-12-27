@@ -1,6 +1,4 @@
 ## Zomato Power BI Project
-### Project Link
-[Project Link](#)
 
 ### 1. Project Objective
 **Purpose**: Analyze sales performance, user performance, and city-wise performance for Zomato, an online food delivery app.  
